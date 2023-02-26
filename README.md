@@ -25,3 +25,13 @@ Further questions that arose in the process include:
 - Are there any missing values in the appointment_date column of the AR and National Categories DataFrames?
 - What is the distribution of appointments across different service settings?
 - Are there any trends or patterns in the number of appointments over time?
+
+## Finding from Activity 4
+
+From August 2021 to June 2022, the data provided shows the number of appointments by service setting and context type.
+
+When looking at aggregated monthly appointment counts by service setting, the trend shows a steady increase from August 2021 to March 2022, followed by a decrease from April 2022 to June 2022. Across all months, the General Practice service setting had the most appointments.
+
+There is also a steady increase in aggregated monthly appointment counts by context type from August 2021 to November 2021, followed by a decrease from December 2021 to June 2022. The Care Related Encounter context type had the most appointments across all months.
+
+When it comes to seasonal trends, there is a consistent increase in appointment counts from August to November, followed by a decrease from December to March and an increase from April to June. Across all seasons, the General Practice service setting and Care Related Encounter context type had the highest number of appointments.
