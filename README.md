@@ -23,5 +23,7 @@ To determine the total number of records per month, I grouped the appointment_da
 Further questions that arose in the process include:
 
 Are there any missing values in the appointment_date column of the AR and National Categories DataFrames?
+
 What is the distribution of appointments across different service settings?
+
 Are there any trends or patterns in the number of appointments over time?
