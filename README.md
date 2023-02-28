@@ -26,7 +26,7 @@ Further questions that arose in the process include:
 - What is the distribution of appointments across different service settings?
 - Are there any trends or patterns in the number of appointments over time?
 
-## Finding from Activity 4
+## Findings from Activity 4
 
 From August 2021 to June 2022, the data provided shows the number of appointments by service setting and context type.
 
@@ -35,3 +35,9 @@ When looking at aggregated monthly appointment counts by service setting, the tr
 There is also a steady increase in aggregated monthly appointment counts by context type from August 2021 to November 2021, followed by a decrease from December 2021 to June 2022. The Care Related Encounter context type had the most appointments across all months.
 
 When it comes to seasonal trends, there is a consistent increase in appointment counts from August to November, followed by a decrease from December to March and an increase from April to June. Across all seasons, the General Practice service setting and Care Related Encounter context type had the highest number of appointments.
+
+## Findings from Activity 5
+
+The most popular hashtag, with a count of 716, appears to be #healthcare, according to the visuals made using the statistics. The hashtags #health, #medical, #ai, and #job are also widely used. The healthcare sector may find the conclusions drawn from this data beneficial since they may use it to track social media conversations and identify the most popular subjects.
+
+By using Seaborn to create a bar plot, the visualisations were enhanced to maximise feedback to the team and the NHS. To show the most popular hashtags, hashtags with a count greater than 10 were included in the plot. This made it possible to portray the data more clearly and spot trends more quickly. Analyzing the correlation between the hashtag usage and the tweet retweet and favourite counts will allow for further investigation. This can offer more information about how hashtag usage affects tweet engagement. Also, analysing the mood of tweets containing particular hashtags might shed light on how social media users feel about healthcare-related subjects.
