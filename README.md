@@ -1,5 +1,9 @@
 # Zidan_Hamza_DA201_Assignment
 
+## Objective
+
+This report presents an overview of the analysis of healthcare data provided by England's National Health Service (NHS). The NHS is a publicly funded healthcare system that incurs significant costs when patients miss their general practitioner (GP) appointments. The primary objective of this analysis is to identify trends and insights that can aid in reducing or eliminating missed appointments, which would be advantageous both financially and socially.This report presents an overview of the analysis of healthcare data provided by England's National Health Service (NHS). The NHS is a publicly funded healthcare system that incurs significant costs when patients miss their general practitioner (GP) appointments. The primary objective of this analysis is to identify trends and insights that can aid in reducing or eliminating missed appointments, which would be advantageous both financially and socially.
+
 ## Findings from Activity 2
 
 Based on the data analysis, we can see that the dataset contains a total of 106 locations. NHS North West London ICB - W2U3Z, NHS Kent and Medway ICB - 91Q, NHS Devon ICB - 15N, NHS Hampshire and Isle Of Wight ICB - D9Y0V, and NHS North East London ICB - A3A8R have the most records. It's worth noting that these locations are spread out across the United Kingdom.
@@ -41,3 +45,19 @@ When it comes to seasonal trends, there is a consistent increase in appointment 
 The most popular hashtag, with a count of 716, appears to be #healthcare, according to the visuals made using the statistics. The hashtags #health, #medical, #ai, and #job are also widely used. The healthcare sector may find the conclusions drawn from this data beneficial since they may use it to track social media conversations and identify the most popular subjects.
 
 By using Seaborn to create a bar plot, the visualisations were enhanced to maximise feedback to the team and the NHS. To show the most popular hashtags, hashtags with a count greater than 10 were included in the plot. This made it possible to portray the data more clearly and spot trends more quickly. Analyzing the correlation between the hashtag usage and the tweet retweet and favourite counts will allow for further investigation. This can offer more information about how hashtag usage affects tweet engagement. Also, analysing the mood of tweets containing particular hashtags might shed light on how social media users feel about healthcare-related subjects.
+
+## Findings from Activity 6
+
+Here are the insights and trends that we identified:
+
+- The majority of appointments are GP visits, and the number of GP visits has been decreasing over time.
+- There is a slightly higher rate of no-show appointments (DNAs) among male patients compared to female patients.
+- The busiest month for appointments is May, with a dip in August and December due to holidays and vacation periods.
+- There is a higher rate of DNAs for evening and weekend appointments compared to weekday appointments.
+- The proportion of patients who DNA decreases with age, with younger patients being more likely to miss appointments.
+-There is a significant variation in DNA rates across different specialties, with the highest rates observed in the Mental Health specialty.
+- There is a significant variation in DNA rates across different service settings, with the highest rates observed in Extended Access Provision and Other settings.
+- Patients who book their appointments on the same day or one day in advance are more likely to DNA compared to those who book in advance.
+- There is an overall decreasing trend in the number of appointments over time, likely due to changes in healthcare policies and practices.
+
+In conclusion, these insights highlight the importance of understanding patient behaviour and appointment patterns to improve healthcare services and reduce missed appointments. The use of data analytics techniques and visualisations can provide valuable insights for healthcare providers and policymakers.
